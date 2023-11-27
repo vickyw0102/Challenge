@@ -15,13 +15,18 @@ MIT license
 
 
 ## Features
-- Added the meta keywords for optimizating the SEO
-- Improve the header with "href - link" function to jump to dedicated section/keyword
-- Added "contact us" in nativigator (header) for getting more feedback from the end-users
-- Added "alt" for each img
-- Added a contact information form for getting more lead 
-- Added a button for submittion the form
-- Added company contact information in the footer which has used "href"
-- Css- added the contact us element with img
+*'header'
+    *Added the meta keywords for optimizating the SEO
+    *Improve the header with "href - link" function to jump to dedicated section/keyword
+    *Added "contact us" in nativigator (header) for getting more feedback from the end-users
+*'img'
+    *Added "alt" for each img
+*'content'
+    *Added a contact information form for getting more lead 
+    *Added a button for submittion the form
+*'footer'
+    *Added company contact information in the footer which has used "href"
+* 'Css'
+    *added the contact us element with img
 
 
