@@ -162,6 +162,14 @@ p {
     color: #ffffff;
 }
 
+.contact-us-box {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;}
+
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -174,6 +182,9 @@ p {
     max-height: 200px;
 }
 
+.contact-us-box img {
+    max-height: 200px;
+}
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -189,22 +200,17 @@ p {
     font-size: 36px;
 }
 
+.contact-us-box h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-.contact-us {
-    margin-bottom: 100px;
-    padding: 0px;
-    height: 10px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #14b7d4;
-    color: #0f0101;
-    margin-bottom: 20px;
-    margin-left: 20px;
-    font-size: 18px;}
+
 
 .footer h5 {
     font-size: 20px;
